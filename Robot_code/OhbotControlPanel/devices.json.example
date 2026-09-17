@@ -1,0 +1,10 @@
+[
+    {
+        "name": "Smart IR",
+        "id": "YOUR_DEVICE_ID",
+        "key": "YOUR_LOCAL_KEY",
+        "ip": "192.168.1.100",
+        "version": "3.5",
+        "model": "L5"
+    }
+]

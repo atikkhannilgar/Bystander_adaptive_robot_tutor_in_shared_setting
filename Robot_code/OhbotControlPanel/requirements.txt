@@ -1,0 +1,19 @@
+# Requires Python 3.11.5
+# python_requires = ==3.11.5
+# Install with: python3.11 -m pip install -r requirements.txt
+
+# Core (Ohbot robot + serial)
+ohbot>=4.0.16
+pyserial
+requests
+numpy==1.26.4
+lxml
+playsound3
+
+# Smart IR (Nous L5 / Tuya) — optional but used by the panel
+tinytuya
+
+# Face guard (camera scan) — optional but used by Task 2 disclosure mode
+mediapipe
+opencv-python
+Pillow
