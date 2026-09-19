@@ -1,0 +1,4 @@
+Condition,N,Mean age,SD,Median,Minimum,Maximum
+Context-Invariant,20,28.1,4.541040919390503,26.5,23.0,37.0
+Context-Adaptive,20,27.65,4.295346318982906,26.5,23.0,41.0
+Overall,40,27.875,4.368814308429515,26.5,23.0,41.0

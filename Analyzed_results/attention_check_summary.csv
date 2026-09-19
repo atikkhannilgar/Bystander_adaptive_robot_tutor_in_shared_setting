@@ -1,0 +1,3 @@
+﻿Condition,N,Expected code,Passed,Failed among nonmissing,Missing
+Context-Invariant,20,1,20,0,0
+Context-Adaptive,20,7,20,0,0

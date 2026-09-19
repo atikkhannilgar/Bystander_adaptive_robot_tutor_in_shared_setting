@@ -1,0 +1,4 @@
+﻿"Outcome","Context-invariant n","Context-adaptive n","Rank-biserial r","Effect direction"
+"Perceived privacy awareness",20,20,0.75,"Positive = context-adaptive higher; negative = context-adaptive lower"
+"Perceived social competence",20,20,0.48,"Positive = context-adaptive higher; negative = context-adaptive lower"
+"Experienced embarrassment",20,20,-0.28,"Positive = context-adaptive higher; negative = context-adaptive lower"

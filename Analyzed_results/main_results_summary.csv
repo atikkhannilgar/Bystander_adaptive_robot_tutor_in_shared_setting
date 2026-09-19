@@ -1,0 +1,4 @@
+﻿"Hypothesis","Outcome","Context-invariant n","Context-adaptive n","Context-invariant mean","Context-adaptive mean","U (context-invariant)","Holm-adjusted p","Holm p (reported)","Rank-biserial r","Hypothesis outcome"
+"H1","Perceived privacy awareness",20,20,3.36,5.84,49.50,0.0001379621055230698,"< .001",0.75,"Supported"
+"H2","Perceived social competence",20,20,3.53,4.85,103.50,0.018506544433797345,"0.019",0.48,"Supported"
+"H3","Experienced embarrassment",20,20,3.85,2.75,256.00,0.13034392165617603,"0.130",-0.28,"Not supported; evidence for lower experienced embarrassment inconclusive"

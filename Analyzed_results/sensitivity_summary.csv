@@ -1,0 +1,2 @@
+﻿"Context-invariant n","Context-adaptive n","Target power","Alpha per test","Minimum detectable d (approximate)","Corresponding absolute r under normal model (approximate)","Simulations per d","Simulation seed","d grid step","Model","Test"
+20,20,0.8,0.0166666666666667,1.11,0.57,20000,2127,0.01,"Independent N(0,1) invariant and N(d,1) adaptive samples","Two-sided asymptotic MWU with continuity correction"

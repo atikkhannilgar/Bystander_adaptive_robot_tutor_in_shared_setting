@@ -1,0 +1,13 @@
+﻿outcome,contrast,n,difference,ci_low,ci_high,p_raw,standard_error,residual_df,method,direction,CI adjustment,p_holm_six_tests,p_holm_six_within_condition_tests
+privacy_awareness,Overall familiarity,40,-0.34002976190476,-1.31960695826562,0.639547434456098,0.485968192644203,0.483003842961568,36,OLS; HC3 standard errors; t inference,Familiar minus unfamiliar,None,1,
+privacy_awareness,Within invariant,40,-1.10714285714286,-2.69643281363935,0.482147099353633,0.166294738155227,0.783637225753921,36,OLS; HC3 standard errors; t inference,Familiar minus unfamiliar,None,,0.865063269030161
+privacy_awareness,Within adaptive,40,0.427083333333337,-0.718535874213475,1.57270254088015,0.454528134800756,0.564874807081417,36,OLS; HC3 standard errors; t inference,Familiar minus unfamiliar,None,,1
+privacy_awareness,Interaction,40,1.53422619047619,-0.424928202245523,3.49338058319791,0.120983470647699,0.966007685923135,36,OLS; HC3 standard errors; t inference,Familiar-unfamiliar in adaptive minus familiar-unfamiliar in invariant,None,0.604917353238496,
+social_competence,Overall familiarity,40,-0.510359432234432,-1.5076444506109,0.48692558614204,0.306249557124223,0.491735105914395,36,OLS; HC3 standard errors; t inference,Familiar minus unfamiliar,None,1,
+social_competence,Within invariant,40,-0.697802197802198,-2.33237825989581,0.936773864291412,0.39233589154138,0.805966617574629,36,OLS; HC3 standard errors; t inference,Familiar minus unfamiliar,None,,1
+social_competence,Within adaptive,40,-0.322916666666665,-1.46592617176414,0.820092838430813,0.570229625380958,0.563588031198213,36,OLS; HC3 standard errors; t inference,Familiar minus unfamiliar,None,,1
+social_competence,Interaction,40,0.374885531135533,-1.61968450561741,2.36945556788848,0.70530535426997,0.983470211828791,36,OLS; HC3 standard errors; t inference,Familiar-unfamiliar in adaptive minus familiar-unfamiliar in invariant,None,1,
+embarrassment,Overall familiarity,40,1.1085927960928,-0.202511504985371,2.41969709717096,0.0949727254174477,0.646471169701372,36,OLS; HC3 standard errors; t inference,Familiar minus unfamiliar,None,0.569836352504686,
+embarrassment,Within invariant,40,1.03663003663004,-1.03794669253043,3.1112067657905,0.317630472061997,1.02291941505549,36,OLS; HC3 standard errors; t inference,Familiar minus unfamiliar,None,,1
+embarrassment,Within adaptive,40,1.18055555555555,-0.423224151277189,2.7843352623883,0.144177211505027,0.790781741900239,36,OLS; HC3 standard errors; t inference,Familiar minus unfamiliar,None,,0.865063269030161
+embarrassment,Interaction,40,0.143925518925518,-2.47828308323081,2.76613412108185,0.911983881626685,1.29294233940274,36,OLS; HC3 standard errors; t inference,Familiar-unfamiliar in adaptive minus familiar-unfamiliar in invariant,None,1,

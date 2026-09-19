@@ -1,0 +1,4 @@
+Hypothesis,Outcome,Invariant n,Adaptive n,U (invariant),Raw p,Rank-biserial r,Holm p,Decision
+H1,Privacy awareness,20,20,49.5,4.598736850768993e-05,0.7525,0.0001379621055230698,Supported
+H2,Social competence,20,20,103.5,0.009253272216898673,0.48250000000000004,0.018506544433797345,Supported
+H3,Embarrassment,20,20,256.0,0.13034392165617603,-0.28,0.13034392165617603,Not supported

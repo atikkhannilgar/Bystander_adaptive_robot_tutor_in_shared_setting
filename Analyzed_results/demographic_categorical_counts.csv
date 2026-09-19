@@ -1,0 +1,14 @@
+Variable,Category,Condition,n,Percent
+Gender,Male,Context-Invariant,14,70.0
+Gender,Female,Context-Invariant,6,30.0
+Gender,Male,Context-Adaptive,14,70.0
+Gender,Female,Context-Adaptive,6,30.0
+Gender,Male,Overall,28,70.0
+Gender,Female,Overall,12,30.0
+Highest degree,University degree,Context-Invariant,19,95.0
+Highest degree,High-school degree,Context-Invariant,1,5.0
+Highest degree,University degree,Context-Adaptive,19,95.0
+Highest degree,Doctorate degree,Context-Adaptive,1,5.0
+Highest degree,University degree,Overall,38,95.0
+Highest degree,High-school degree,Overall,1,2.5
+Highest degree,Doctorate degree,Overall,1,2.5

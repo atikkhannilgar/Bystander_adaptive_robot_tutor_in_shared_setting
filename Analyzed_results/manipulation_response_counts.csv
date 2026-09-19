@@ -1,0 +1,7 @@
+Check,Condition,Yes,No,Uncertain
+Robot changed its action,Context-Invariant,9,6,5
+Robot changed its action,Context-Adaptive,15,1,4
+Robot looked around,Context-Invariant,6,9,5
+Robot looked around,Context-Adaptive,20,0,0
+Robot noticed the bystander,Context-Invariant,1,15,4
+Robot noticed the bystander,Context-Adaptive,12,2,6

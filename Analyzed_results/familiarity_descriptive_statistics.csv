@@ -1,0 +1,13 @@
+﻿"Outcome","Condition","Familiarity","N","Mean","SD","Median","Minimum","Maximum","95% confidence interval for mean lower","95% confidence interval for mean upper"
+"Perceived privacy awareness","Context-invariant","Familiar",7,2.64,1.47,2.25,1.00,4.75,1.28,4.00
+"Perceived privacy awareness","Context-invariant","Unfamiliar",13,3.75,1.74,4.00,1.00,7.00,2.70,4.80
+"Perceived privacy awareness","Context-adaptive","Familiar",8,6.09,1.03,6.25,3.75,7.00,5.24,6.95
+"Perceived privacy awareness","Context-adaptive","Unfamiliar",12,5.67,1.36,5.88,2.75,7.00,4.80,6.53
+"Perceived social competence","Context-invariant","Familiar",7,3.07,1.59,2.75,1.00,5.50,1.60,4.54
+"Perceived social competence","Context-invariant","Unfamiliar",13,3.77,1.65,3.25,1.25,6.25,2.77,4.77
+"Perceived social competence","Context-adaptive","Familiar",8,4.66,1.03,4.63,3.25,6.50,3.79,5.52
+"Perceived social competence","Context-adaptive","Unfamiliar",12,4.98,1.35,5.38,2.50,6.50,4.12,5.83
+"Experienced embarrassment","Context-invariant","Familiar",7,4.52,2.03,4.33,1.00,7.00,2.65,6.40
+"Experienced embarrassment","Context-invariant","Unfamiliar",13,3.49,2.08,3.67,1.00,7.00,2.23,4.75
+"Experienced embarrassment","Context-adaptive","Familiar",8,3.46,1.82,4.17,1.00,5.33,1.94,4.98
+"Experienced embarrassment","Context-adaptive","Unfamiliar",12,2.28,1.30,1.83,1.00,4.67,1.45,3.10

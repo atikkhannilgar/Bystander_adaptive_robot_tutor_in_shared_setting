@@ -1,0 +1,4 @@
+Outcome,Invariant n,Adaptive n,Rank-biserial r,r CI95 lower,r CI95 upper,Effect direction,CI method,CI multiplicity adjustment,Bootstrap resamples,Bootstrap seed
+Privacy awareness,20,20,0.7525,0.50,0.95,Positive = context-adaptive higher; negative = context-adaptive lower,Independent within-condition percentile bootstrap,None,20000,2027
+Social competence,20,20,0.4825,0.15,0.77,Positive = context-adaptive higher; negative = context-adaptive lower,Independent within-condition percentile bootstrap,None,20000,2028
+Embarrassment,20,20,-0.28,-0.61,0.0825,Positive = context-adaptive higher; negative = context-adaptive lower,Independent within-condition percentile bootstrap,None,20000,2029

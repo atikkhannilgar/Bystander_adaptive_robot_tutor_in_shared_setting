@@ -1,0 +1,2 @@
+﻿"Outcome","Analysis","Context-invariant n","Context-adaptive n","U (context-invariant)","Unadjusted p","p (reported)","Rank-biserial r","Omitted invariant column","Omitted adaptive column","Effect direction"
+"Perceived privacy awareness","Exploratory robustness: private-feedback item omitted",20,20,49.50,0.0000449675099885547,"< .001",0.75,"PRAW1[3]","PRAW2[3]","Positive = context-adaptive higher"
