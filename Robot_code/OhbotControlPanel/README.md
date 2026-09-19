@@ -109,4 +109,3 @@ Without the disclosure checkbox, sensitive lines are spoken (no face-scan gate).
 - Screen disclosure is gated on **positive bystander detection**.
 - Participant face profile is deleted after each task for privacy between sessions.
 - No participant audio recording; response windows are timed holds.
-- This package does **not** include personal device keys, session logs, or version history snapshots.
